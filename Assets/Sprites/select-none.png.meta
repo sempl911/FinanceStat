@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 0a7dccceadaae479589a9bb50a3e62aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1434727822968333301
+    second: select-nonel_0
+  - first:
+      213: -2678355197691076689
+    second: select-nonel_1
+  - first:
+      213: 1442960271181679353
+    second: select-nonel_2
+  - first:
+      213: 7423605596550179788
+    second: select-nonel_3
+  - first:
+      213: 6408586226288827823
+    second: select-nonel_4
+  - first:
+      213: 9156528870597134158
+    second: select-nonel_5
+  - first:
+      213: -790505798067512411
+    second: select-nonel_6
+  - first:
+      213: -3982670355940948249
+    second: select-nonel_7
+  - first:
+      213: -1573987676833251634
+    second: select-nonel_8
+  - first:
+      213: 8024296192549897450
+    second: select-nonel_9
+  - first:
+      213: -7370535002370819412
+    second: select-nonel_10
+  - first:
+      213: -5100416524126236916
+    second: select-nonel_11
+  - first:
+      213: 5597044126716989049
+    second: select-nonel_12
+  - first:
+      213: -9116332471957231301
+    second: select-nonel_13
+  - first:
+      213: -845906443606794586
+    second: select-nonel_14
+  - first:
+      213: -4970637016819517521
+    second: select-nonel_15
+  - first:
+      213: -866053106730829061
+    second: select-nonel_16
+  - first:
+      213: -5154191134753498097
+    second: select-nonel_17
+  - first:
+      213: 5195885518439246711
+    second: select-nonel_18
+  - first:
+      213: -853111159325981872
+    second: select-nonel_19
+  - first:
+      213: -5330259333399060444
+    second: select-nonel_20
+  - first:
+      213: -6919126530138982644
+    second: select-nonel_21
+  - first:
+      213: 137606554840622239
+    second: select-nonel_22
+  - first:
+      213: -3704160184105658423
+    second: select-nonel_23
+  - first:
+      213: 5565782041909108984
+    second: select-nonel_24
+  - first:
+      213: -183815076136233990
+    second: select-nonel_25
+  - first:
+      213: 8708434894213726899
+    second: select-nonel_26
+  - first:
+      213: -4792816987327656533
+    second: select-nonel_27
+  - first:
+      213: 4785931670131772905
+    second: select-nonel_28
+  - first:
+      213: 2559727254978799771
+    second: select-nonel_29
+  - first:
+      213: 9190350493546469878
+    second: select-nonel_30
+  - first:
+      213: 1429915158067879466
+    second: select-nonel_31
+  - first:
+      213: 7677014951080378306
+    second: select-nonel_32
+  - first:
+      213: 8049067055222025409
+    second: select-nonel_33
+  - first:
+      213: 2614406371274933333
+    second: select-nonel_34
+  - first:
+      213: -5903396365910999929
+    second: select-nonel_35
+  - first:
+      213: -712853070509722262
+    second: select-nonel_36
+  - first:
+      213: 4457319298592377559
+    second: select-nonel_37
+  - first:
+      213: 4269795653763092142
+    second: select-nonel_38
+  - first:
+      213: -6560760783598491253
+    second: select-nonel_39
+  - first:
+      213: 1408906987278337302
+    second: select-nonel_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: select-nonel_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 469
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a56d7a5d29e310800000000000000
+      internalID: 1434727822968333301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5d43632294dad0800000000000000
+      internalID: -2678355197691076689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 469
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa09c4b8bc660410800000000000000
+      internalID: 1442960271181679353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba9f645f1f50760800000000000000
+      internalID: 7423605596550179788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad186af73fdfe850800000000000000
+      internalID: 6408586226288827823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470d839e76821f70800000000000000
+      internalID: 9156528870597134158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9c493a2f8705f0800000000000000
+      internalID: -790505798067512411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 469
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e649a09966bab8c0800000000000000
+      internalID: -3982670355940948249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 469
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecef2891c82182ae0800000000000000
+      internalID: -1573987676833251634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 446
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c4716fd60c5f60800000000000000
+      internalID: 8024296192549897450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 436
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaba13577996b990800000000000000
+      internalID: -7370535002370819412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 266
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f4ce8c13ea739b0800000000000000
+      internalID: -5100416524126236916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 266
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e07259af1bcad40800000000000000
+      internalID: 5597044126716989049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 390
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3961aacae74c7180800000000000000
+      internalID: -9116332471957231301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 399
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae5a93429cb244f0800000000000000
+      internalID: -845906443606794586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b01108ffb40bb0800000000000000
+      internalID: -4970637016819517521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 353
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7fa8b9492bf3f0800000000000000
+      internalID: -866053106730829061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 297
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cdc849872a878b0800000000000000
+      internalID: -5154191134753498097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 306
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bea2c995e7b1840800000000000000
+      internalID: 5195885518439246711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 250
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053047aabe32924f0800000000000000
+      internalID: -853111159325981872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 260
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420e900906d1706b0800000000000000
+      internalID: -5330259333399060444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 204
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b51774135aff90800000000000000
+      internalID: -6919126530138982644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946a0cbe60e8e100800000000000000
+      internalID: 137606554840622239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 69
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c79c3320fd289cc0800000000000000
+      internalID: -3704160184105658423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_24
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 213
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0ad314741ad3d40800000000000000
+      internalID: 5565782041909108984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 157
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d9828925f27df0800000000000000
+      internalID: -183815076136233990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 166
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2c933a5639ad870800000000000000
+      internalID: 8708434894213726899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 110
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad80ece75e7c7db0800000000000000
+      internalID: -4792816987327656533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_28
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 120
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed0f7d3f7b0b6240800000000000000
+      internalID: 4785931670131772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 64
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a5ea506af58320800000000000000
+      internalID: 2559727254978799771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 73
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f95c21d41faa8f70800000000000000
+      internalID: 9190350493546469878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e159f924418d310800000000000000
+      internalID: 1429915158067879466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf32866c6c3a8a60800000000000000
+      internalID: 7677014951080378306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cceec747d704bf60800000000000000
+      internalID: 8049067055222025409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544c523ebc384420800000000000000
+      internalID: 2614406371274933333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 29
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cfa81684ce21ea0800000000000000
+      internalID: -5903396365910999929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b833c8ef6b16f0800000000000000
+      internalID: -712853070509722262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 29
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da871349449bdd30800000000000000
+      internalID: 4457319298592377559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae4e06568c514b30800000000000000
+      internalID: 4269795653763092142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 29
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b896c45e3de73f4a0800000000000000
+      internalID: -6560760783598491253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select-nonel_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 31
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158a42b0717d8310800000000000000
+      internalID: 1408906987278337302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      select-nonel_0: 1434727822968333301
+      select-nonel_1: -2678355197691076689
+      select-nonel_10: -7370535002370819412
+      select-nonel_11: -5100416524126236916
+      select-nonel_12: 5597044126716989049
+      select-nonel_13: -9116332471957231301
+      select-nonel_14: -845906443606794586
+      select-nonel_15: -4970637016819517521
+      select-nonel_16: -866053106730829061
+      select-nonel_17: -5154191134753498097
+      select-nonel_18: 5195885518439246711
+      select-nonel_19: -853111159325981872
+      select-nonel_2: 1442960271181679353
+      select-nonel_20: -5330259333399060444
+      select-nonel_21: -6919126530138982644
+      select-nonel_22: 137606554840622239
+      select-nonel_23: -3704160184105658423
+      select-nonel_24: 5565782041909108984
+      select-nonel_25: -183815076136233990
+      select-nonel_26: 8708434894213726899
+      select-nonel_27: -4792816987327656533
+      select-nonel_28: 4785931670131772905
+      select-nonel_29: 2559727254978799771
+      select-nonel_3: 7423605596550179788
+      select-nonel_30: 9190350493546469878
+      select-nonel_31: 1429915158067879466
+      select-nonel_32: 7677014951080378306
+      select-nonel_33: 8049067055222025409
+      select-nonel_34: 2614406371274933333
+      select-nonel_35: -5903396365910999929
+      select-nonel_36: -712853070509722262
+      select-nonel_37: 4457319298592377559
+      select-nonel_38: 4269795653763092142
+      select-nonel_39: -6560760783598491253
+      select-nonel_4: 6408586226288827823
+      select-nonel_40: 1408906987278337302
+      select-nonel_5: 9156528870597134158
+      select-nonel_6: -790505798067512411
+      select-nonel_7: -3982670355940948249
+      select-nonel_8: -1573987676833251634
+      select-nonel_9: 8024296192549897450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
