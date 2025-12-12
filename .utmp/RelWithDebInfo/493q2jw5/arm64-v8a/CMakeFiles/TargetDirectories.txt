@@ -1,0 +1,5 @@
+/Users/aleksejkustov/Documents/UnityBuilds/StatisticApp/StatisticApp/FinanceStat/.utmp/RelWithDebInfo/493q2jw5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/aleksejkustov/Documents/UnityBuilds/StatisticApp/StatisticApp/FinanceStat/.utmp/RelWithDebInfo/493q2jw5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/aleksejkustov/Documents/UnityBuilds/StatisticApp/StatisticApp/FinanceStat/.utmp/RelWithDebInfo/493q2jw5/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/aleksejkustov/Documents/UnityBuilds/StatisticApp/StatisticApp/FinanceStat/.utmp/RelWithDebInfo/493q2jw5/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/aleksejkustov/Documents/UnityBuilds/StatisticApp/StatisticApp/FinanceStat/.utmp/RelWithDebInfo/493q2jw5/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

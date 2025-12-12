@@ -14,7 +14,9 @@ public class ResetWindow : MonoBehaviour
     public void OnYesReset()
     {
         ResetAll();
+        Debug.Log("Base reset");
         gameObject.SetActive(false);
+        
     }
     public void OnNoReset()
     {
